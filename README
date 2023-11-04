@@ -1,0 +1,3 @@
+#week1 application
+golang application with the dockerfile
+image ref: evgeniyjay/w1app:v1.0.0
